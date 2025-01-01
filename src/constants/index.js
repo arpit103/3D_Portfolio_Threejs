@@ -259,7 +259,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/arpit103/3D_Portfolio",
+    source_code_link: "https://github.com/arpit103/3D_Portfolio_Threejs",
   },
   // {
   //   name: "Trip Guide",
