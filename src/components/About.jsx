@@ -48,12 +48,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
       >
-A well-organized, goal-oriented 
-Software Engineer and always ready for new challenges, with problem solving and a flair 
-to explore suitable avenues in Computer Science Engineering while developing advanced 
-projects with efficiency and quality. Ability to adopt different work cultures and work 
-as a Computer Engineer.I'm a quick learner and collaborate closely with clients tocreate 
-efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+A results-driven Software Engineer with strong organizational skills, attention to detail, and a passion for solving complex problems. 
+Adept at leveraging innovative technologies to design and deliver high-performance software solutions. Skilled in creating efficient, 
+scalable systems and adapting to diverse work cultures. Enthusiastic about exploring emerging trends and advancing knowledge in 
+computer science engineering. 
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
